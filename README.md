@@ -26,11 +26,15 @@ Sumate al evento más grande del mundo de la Industria Cultural y encara el desa
 
 Las actividades son del miércoles 1 al domingo 5 de febrero
 
+# Actividad Presencial en el Centro Cultural HolverMartínez Borelli-U.N.Sa. Alvarado 551 
+![Global Game Jam 2023 (2)](https://user-images.githubusercontent.com/95596561/214750525-9b96f682-6097-47a5-8a4b-68265391bf26.jpg)
 Hola! Tenemos confirmadas actividades miércoles y jueves de la semana que viene para que se vayan preparando en la participación de la Global Game JAM Salta 2023
 
 Está confirmada la presencia de Nicolás Burgos y de Néstor Arriola para el miércoles y jueves
 
 Allí verán temas de organización y producción, Inteligencia Artificial y típs o consejos para las entrevistas de trabajo en la Industria Cultural cómo lo es Videojuegos
+
+
 
 Recuerden inscribirse en la Sede Salta de la Global Game JAM 2023
 Para participar del evento mundial Global Game JAM 2023. 
