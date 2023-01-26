@@ -1,5 +1,7 @@
 # global-gamejam2023-salta
 
+![flayer](https://user-images.githubusercontent.com/95596561/214745540-d9500c90-7c12-4456-952b-39173048bfc8.jpg)
+
 Sos artista, guionista, músico ó programador...???
 
 Sumate al evento más grande del mundo de la Industria Cultural y encara el desafío de armar un Videojuego en 48hs...
@@ -24,3 +26,5 @@ https://globalgamejam.org/
  Link para participación  de chicos salteños:
 
 https://globalgamejam.org/2023/jam-sites/argentina-ggj-salta-2023
+
+Grupo de Discord para saber todas las novedades: https://discord.gg/GzAn8WRx
