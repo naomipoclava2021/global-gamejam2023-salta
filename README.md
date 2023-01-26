@@ -1,6 +1,22 @@
-# global-gamejam2023-salta
+# ARGENTINA GGJ SALTA 2023 CEUNSA
+
+Bienvenidos nuevamente a la Sede Salta de la Global Game JAM 2023...!!! Esta vez trabajando con los Centros de Extension Universitarios de la UNSa, San Benito, BiCentenario, Vaqueros, Union, San Carlos, Animana.
+
+ ## Del 1 Enero al 5 de Febrero
+
+Tendremos la experiencia de encarar desarrollos de proyectos en Videojuegos, todo sera trabajando en equipos, con los ENGINE GODOT, UNREAL, UNITY, BLENDER, PyGame, PyGlets, PyArcade.
+
+La idea principal es formar grupos de trabajo interdisciplinarios en este contexto para logar un Desarrollo lo mas Completo y Competible.
+
+No hace falta que tengan experiencia, no hace falta que sean programadores, seguro tienen una habilidad que puede aportar en el desarrollo de un VJ...
+
+Pueden sumarse, diseñadores graficos, dibujantes, relatores, guionistas, pintores, historiadores, gente de robotica, musicos, diseño de vestimentas, programadores, mantenedores, actores, educadores, profesores, matematicos, fisicos, quimicos, profesores de geografia, de historia, de lengua y literatura, todo aquel que tenga ganas de generar un contexto ludico para la sociedad.
+
+Solo deben animarse al DESAFIO..!!! Los esperamos..!!!
+
 
 ![flayer](https://user-images.githubusercontent.com/95596561/214745540-d9500c90-7c12-4456-952b-39173048bfc8.jpg)
+
 
 Sos artista, guionista, músico ó programador...???
 
